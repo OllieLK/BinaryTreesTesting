@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\obj\Debug\net8.0\BinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\obj\Debug\net8.0\BinaryTrees.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\obj\Debug\net8.0\BinaryTrees.AssemblyInfo.cs
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\obj\Debug\net8.0\BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\obj\Debug\net8.0\BinaryTrees.sourcelink.json
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\bin\Debug\net8.0\BinaryTrees.exe
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\bin\Debug\net8.0\BinaryTrees.deps.json
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\bin\Debug\net8.0\BinaryTrees.runtimeconfig.json
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\bin\Debug\net8.0\BinaryTrees.dll
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\bin\Debug\net8.0\BinaryTrees.pdb
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\obj\Debug\net8.0\BinaryTrees.dll
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\obj\Debug\net8.0\refint\BinaryTrees.dll
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\obj\Debug\net8.0\BinaryTrees.pdb
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\obj\Debug\net8.0\BinaryTrees.genruntimeconfig.cache
+C:\Users\Student\source\repos\BinaryTreesTesting\BinaryTrees\obj\Debug\net8.0\ref\BinaryTrees.dll
